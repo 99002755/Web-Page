@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img{
+    background-image: url('hotel_triplanco.jpg');
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.container{
+    position: absolute;
+    margin: 20px;
+    width: auto;
+}
+.topnav{
+    overflow: hidden;
+    background-color: black;
+}
+.topnav{
+    float: left;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
